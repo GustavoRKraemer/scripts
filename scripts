@@ -1,0 +1,8 @@
+var menssagem=prompt("eu sou gustavo")
+        alert(menssagem)
+
+
+ var n1 = Number(prompt("digite o primeiro numero!"))
+        var n2 = Number(prompt("digite o segundo numero!"))
+        var n3 = Number(prompt("digite o terceiro numero!"))
+        alert(n1 + " " + n2 +" " + n3)
