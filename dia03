@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aula dia 03</title>
+    <script>
+        function minhaFunçao(){
+        alert("voce apertou meu botao!")
+        }
+    </script>
+</head>
+
+<body>
+    <h1>Exercício 1</h1>
+    <button onclick="minhaFunçao()">clique aqui!</button>
+    <p>minha mensagem</p>
+    <script>
+        document.getElementById 
+    </script>
+</body>
+
+</html>
